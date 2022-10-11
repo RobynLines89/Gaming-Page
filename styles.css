@@ -139,5 +139,13 @@
       margin: 0 auto;
     }
   }
+
+  form {
+    text-align: center;
+  }
+  
+  footer {
+    text-align: center;
+  }
   
   
